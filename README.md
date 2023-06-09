@@ -17,6 +17,7 @@
 | ⎣ ⎦    | math.floor() |
 | ⎡  ⎤   | math.ceil()  |
 | ⎥ ⎥    | abs()        |
+| √      | math.sqrt()  |
 | sin    | math.sin()   |
 | cos    | math.cos()   |
 | tg     | math.tan()   |
